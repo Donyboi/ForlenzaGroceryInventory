@@ -13,5 +13,10 @@
 - Features:
   - View the current inventory.
   - Search for items by name.
+## Version 1.2
+-2025-10-27
+-feature
+  -add a try and except for the remove item feature
+  -add the ability to alwasy veiw the inventory 
 
 
